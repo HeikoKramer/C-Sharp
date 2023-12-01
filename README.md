@@ -1,2 +1,3 @@
-# C-Sharp
-Repo to document my C# learning process.
+# C# Nodes
+
+Man, I don't know how to use Vim any more .. what a shame. <br>
